@@ -58,3 +58,51 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds/
+Deploy/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+*.userprefs
+ 
+# ========================================================== #
+# Visual Studio / Visual Studio Code / MonoDevelop generated #
+# ========================================================== #
+[Ee]xported[Oo]bj/
+.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.meta
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+.consulo/
+*.tmp
+*.svd
+.vscode/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+GGJ2021_unity/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+GGJ2021_unity/Logs/*
+GGJ2021_unity/Logs/*.log
+
+GGJ2021_unity/Logs/ApiUpdaterCheck.txt
+GGJ2021_unity/Logs/AssetImportWorker0.log
+GGJ2021_unity/Logs/AssetImportWorker0-prev.log
+GGJ2021_unity/Logs/Packages-Update.log
