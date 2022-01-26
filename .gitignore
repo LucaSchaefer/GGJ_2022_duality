@@ -69,7 +69,7 @@ Deploy/
 [Ll]ibrary/
 sysinfo.txt
 *.stackdump
-/Assets/AssetStoreTools*
+/Assets/#Plugins*
 *.apk
 *.unitypackage
 *.userprefs
@@ -106,3 +106,5 @@ GGJ2021_unity/Logs/ApiUpdaterCheck.txt
 GGJ2021_unity/Logs/AssetImportWorker0.log
 GGJ2021_unity/Logs/AssetImportWorker0-prev.log
 GGJ2021_unity/Logs/Packages-Update.log
+
+/[Ll]ibrary/Bee*
