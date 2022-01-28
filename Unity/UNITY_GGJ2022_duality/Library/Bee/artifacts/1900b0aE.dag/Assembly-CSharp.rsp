@@ -398,9 +398,6 @@
 "Assets/#plugins/LeanTween/Framework/LTDescrOptional.cs"
 "Assets/#plugins/LeanTween/Framework/LTSeq.cs"
 "Assets/#URP/TutorialInfo/Scripts/Readme.cs"
-"Assets/Scripts/Input/PlayerInput.cs"
-"Assets/Scripts/Player/CameraTracking.cs"
-"Assets/Scripts/Player/PlayerMovement.cs"
 -langversion:9.0
 
 /deterministic
